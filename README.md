@@ -2,7 +2,7 @@
 ### *Author: Lillian Hanson*
 
 ### Summary:
-This project analyzes the Gannon geomagnetic storm of May 2024. Statistical analyses of 
+This project analyzes the Gannon geomagnetic storm of May 2024. Statistical analyses of scalar magnetic field and X-ray flux are performed for three different locations. 
 
 ### Tools/packages used:
 - [Numpy](https://numpy.org/)
@@ -14,4 +14,4 @@ This project analyzes the Gannon geomagnetic storm of May 2024. Statistical anal
 
 
 ### How To Use This Repository:
-This repository contains two main Jupyter Notebook files, figures.ipynb, and stat_analysis.ipynb, each in the /notebooks folder. The figures notebook contains all the code necessary to reproduce all figures used in the
+This repository contains two main Jupyter Notebook files, figures.ipynb, and stat_analysis.ipynb, each in the /notebooks folder. The figures notebook contains all the code necessary to reproduce all figures used in the final report. The stat_analysis notebook contains all the code necessary to run statistical analyses used in the final report. All data used is housed in intermag-data and misc-data. 
