@@ -14,4 +14,4 @@ This project analyzes the Gannon geomagnetic storm of May 2024. Statistical comp
 
 
 ### How To Use This Repository:
-This repository contains two main Jupyter Notebook files, figures.ipynb, and stat_analysis.ipynb, each in the /notebooks folder. The figures notebook contains all the code necessary to reproduce all the figures used in the final report. The stat_analysis notebook contains all the code required to run statistical analyses used in the final report. All data used is housed in intermag-data and misc-data. 
+This repository contains two main Jupyter Notebook files, figures.ipynb, and stat_analysis.ipynb, each in the /notebooks folder. The figures notebook contains all the code necessary to reproduce all the figures used in the final report. The stat_analysis notebook contains all the code required to run statistical analyses used in the final report. INTERMAGNET data can be found in /intermag-data and all other data can be found in /misc-data. 
