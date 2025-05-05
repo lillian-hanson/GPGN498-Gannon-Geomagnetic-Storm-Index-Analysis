@@ -1,5 +1,5 @@
 # GPGN498 Final Project: Geomagnetic Storm Analysis
-### *Author: Lillian Hanson*
+#### *Author: Lillian Hanson*
 
 ### Summary:
 This project analyzes the Gannon geomagnetic storm of May 2024. Statistical analyses of scalar magnetic field and X-ray flux are performed for three different locations. 
