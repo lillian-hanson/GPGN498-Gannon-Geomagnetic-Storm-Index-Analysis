@@ -2,7 +2,7 @@
 #### *Author: Lillian Hanson*
 
 ### Summary:
-This project analyzes the Gannon geomagnetic storm of May 2024. Statistical scalar magnetic field and X-ray flux analyses are performed for three locations. 
+This project analyzes the Gannon geomagnetic storm of May 2024. Statistical comparisons are made for X-ray flux and magnetic field data from the geomagnetic storm. This comparison will show a numerical relationship between these indices.  
 
 ### Tools/packages used:
 - [Numpy](https://numpy.org/)
